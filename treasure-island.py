@@ -1,3 +1,7 @@
+from art import logo
+
+print(logo)
+
 print("Welcome to Treasure Island.\nYour mission is to find the treasure.")
 
 dir = input('You\'re at a crossroad. Where do you want to go? Type "left" or "right" ').lower()
